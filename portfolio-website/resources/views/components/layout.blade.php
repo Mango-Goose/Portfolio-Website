@@ -27,10 +27,10 @@
 <!--footer content -->
 <footer>
     <div class="flex flex-col  justify-evenly text-bold items-center text-rose-100 py-10 bg-zinc-900 inset-x-0 bottom-0">
-    <a href="about" class=" py-3 hover:opacity-75">About Me</a>
-    <a href="portfolio" class=" py-3 hover:opacity-75">Projects</a>
-    <a href="experience" class=" py-3 hover:opacity-75">Experience</a>
-    <a href="contact" class=" py-3 hover:opacity-75">Contact</a>
+    <a href="about" class=" underline py-3 hover:opacity-75">About Me</a>
+    <a href="portfolio" class=" underline py-3 hover:opacity-75">Projects</a>
+    <a href="experience" class=" underline py-3 hover:opacity-75">Experience</a>
+    <a href="contact" class=" underline py-3 hover:opacity-75">Contact</a>
 </div>
 </footer>
 </html>
