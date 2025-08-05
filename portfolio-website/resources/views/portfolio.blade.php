@@ -11,7 +11,7 @@
         <a href="farmtofork">
             <div class="m-5 border-2 border-rose-100 rounded-2xl py-7 mb-8 flex flex-col items-center hover:scale-105 transition duration-700">
                 <h3 class="text-3xl">Farm to Fork</h1>
-                <img src="/images/dataannotationtech_logo.jpg" class="ml-5 rounded-2xl"></img>
+                <img src="images/logo.png" class="w-2/3 pt-3">
             </div>
         </a>
 
