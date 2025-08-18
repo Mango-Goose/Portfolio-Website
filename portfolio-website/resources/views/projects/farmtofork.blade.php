@@ -18,17 +18,19 @@
         </div>
 
         <!--My Role section-->
-        <div class="flex justify-center mb-8">
+        <div class="flex justify-center pb-8">
             <div class="flex flex-col items-center border-2 rounded-xl py-5 w-5/6">
-                <h2 class="text-4xl">My Role</h2>
-                <p class="px-12 text-center">I contributed to this project consistently over the course of the module, of which my tasks included but were not limited to the following:</p>
-                <ul class=" pl-12 text-left list-disc">
-                    <li>Planning and idea generation</li>
-                    <li>Page design generation, specifically for the admin pages</li>
-                    <li>Coding - more backend focused than frontend, I implemented review systems and forgotten password/ automated mail features</li>
-                    <li>Report generation for assignments in teaching period 1</li>
-                    <li>QA and bug fixing</li>
-                </ul>
+                <h2 class="text-4xl mb-3">My Role</h2>
+                <div class="text-center ">
+                    <p class="px-12 pb-2">I contributed to this project consistently over the course of the module, of which my tasks included but were not limited to the following:</p>
+                    <ul class=" pl-16 text-left list-disc">
+                        <li>Planning and idea generation</li>
+                        <li>Page design generation, specifically for the admin pages</li>
+                        <li>Coding - more backend focused than frontend, I implemented review systems and forgotten password/ automated mail features</li>
+                        <li>Report generation for assignments in teaching period 1</li>
+                        <li>QA and bug fixing</li>
+                    </ul>
+                </div>
             </div>
         </div>
 

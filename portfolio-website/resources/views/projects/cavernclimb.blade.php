@@ -20,16 +20,18 @@
         <!--Software Used section-->
         <div class="flex justify-center mb-8">
             <div class="flex flex-col items-center border-2 rounded-xl py-5 w-5/6">
-                <h2 class="text-4xl">Software Used</h2>
-                <p class="px-12 text-center">I created all assets for the game, ranging from scripts to art and animation to music. Here is the full list of everything that I used:</p>
-                <ul class=" pl-12 text-left list-disc">
-                    <li>Unity game engine</li>
-                    <li>C#</li>
-                    <li>JSON <em>[save systems]</em></li>
-                    <li>Piskel <em>[art and animation]</em></li>
-                    <li>Garage Band <em>[music]</em></li>
-                    <li>Unity Advertisements</li>
-                </ul>
+                <h2 class="text-4xl pb-3">Software Used</h2>
+                <div class="text-center ">
+                    <p class="px-12 pb-2">I created all assets for the game, ranging from scripts to art and animation to music. Here is the full list of everything that I used:</p>
+                    <ul class=" pl-16 text-left self-start list-disc">
+                        <li>Unity game engine</li>
+                        <li>C#</li>
+                        <li>JSON <em>[save systems]</em></li>
+                        <li>Piskel <em>[art and animation]</em></li>
+                        <li>Garage Band <em>[music]</em></li>
+                        <li>Unity Advertisements</li>
+                    </ul>
+</div>
             </div>
         </div>
 
