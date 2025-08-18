@@ -35,7 +35,7 @@
             </div>
         </div>
 
-        <!--For finding source code and hosted website-->
+        <!--For finding source code-->
         <div class="flex justify-center">
             <div class="flex flex-col items-center border-2 rounded-xl py-5 w-5/6">
                 <h2 class="text-4xl mb-5">Where can you find this project?</h2>
@@ -55,7 +55,7 @@
                 </div>
             </a>
 
-            <a href="cavernclimb">
+            <a href="dreamscape">
                 <div class="px-5 hover:scale-110 transition duration-500">
                     <h2 class="text-6xl">→</h2>
                     <p class="hover:underline opacity-75">Dreamscape</p>
