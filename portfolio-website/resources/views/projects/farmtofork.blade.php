@@ -22,7 +22,7 @@
             <div class="flex flex-col items-center border-2 rounded-xl py-5 w-5/6">
                 <h2 class="text-4xl">My Role</h2>
                 <p class="px-12 text-center">I contributed to this project consistently over the course of the module, of which my tasks included but were not limited to the following:</p>
-                <ul class=" text-left list-disc">
+                <ul class=" pl-12 text-left list-disc">
                     <li>Planning and idea generation</li>
                     <li>Page design generation, specifically for the admin pages</li>
                     <li>Coding - more backend focused than frontend, I implemented review systems and forgotten password/ automated mail features</li>

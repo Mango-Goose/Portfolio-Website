@@ -5,7 +5,7 @@
             <p>Here are all of the coding projects I have completed and am proud of!</p>
         </div>
     <!--List of all projects-->
-    <div class="mx-12 justify-center grid-cols-3 grid">
+    <div class="mx-12 grid-cols-3 grid">
         
         <!--Template for each project/item-->
         <a href="farmtofork">
@@ -18,7 +18,7 @@
         <a href="cavernclimb">
             <div class="m-5 border-2 border-rose-100 rounded-2xl py-7 mb-8 flex flex-col items-center hover:scale-105 transition duration-700">
                 <h3 class="text-3xl">Cavern Climb</h1>
-                <img src="/images/dataannotationtech_logo.jpg" class="ml-5 rounded-2xl"></img>
+                <img src="/images/CavernClimbIcon.png" class="rounded-2xl w-2/3 mt-3 justify-center"></img>
             </div>
         </a>
 
