@@ -13,17 +13,17 @@
         <div class="flex justify-center mb-8">
             <div class="flex flex-col items-center border-2 rounded-xl py-5 w-5/6">
                 <h2 class="text-4xl pb-3">About Dreamscape</h2>
-                <p class="px-12 text-center">Dreamscape is a whimsical action/ adventure game aimed at players that enjoyed the gameplay style of the Skylanders franchise. You play as a character that gets transported to the dream world via their sleep, in search of their friend who had been kidnapped by evil forces. Battle surreal enemies, travel over complex terrain and solve fun puzzles to complete the levels and save the entire dream world! Dreamscape was my introduction to game development and coding in C#, of which it ended up winning an award at my college that year for best game.</p>
+                <p class="px-12 text-center leading-7">Dreamscape is a whimsical action/ adventure game aimed at players that enjoyed the gameplay style of the Skylanders franchise. You play as a character that gets transported to the dream world via their sleep, in search of their friend who had been kidnapped by evil forces. Battle surreal enemies, travel over complex terrain and solve fun puzzles to complete the levels and save the entire dream world! Dreamscape was my introduction to game development and coding in C#, of which it ended up winning an award at my college that year for best game.</p>
             </div>
         </div>
 
         <!--Software Used section-->
         <div class="flex justify-center mb-8">
             <div class="flex flex-col items-center border-2 rounded-xl py-5 w-5/6">
-                <h2 class="text-4xl pb-3">Software Used</h2>
+                <h2 class="text-4xl pb-3">Software</h2>
                 <div class="text-center ">
                     <p class="px-12 pb-2">I created all assets for this project, and here is the full list of everything that I used:</p>
-                    <ul class=" pl-16 text-left self-start list-disc">
+                    <ul class=" pl-16 text-left self-start list-disc leading-7">
                         <li>Unity game engine</li>
                         <li>Cinemachine <em>[plugin]</em></li>
                         <li>C#</li>
@@ -32,7 +32,7 @@
                         <li>Piskel <em>[2D art]</em></li>
                         <li>Garage Band <em>[music]</em></li>
                     </ul>
-</div>
+                </div>
             </div>
         </div>
 

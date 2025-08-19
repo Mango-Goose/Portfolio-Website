@@ -13,17 +13,17 @@
         <div class="flex justify-center mb-8">
             <div class="flex flex-col items-center border-2 rounded-xl py-5 w-5/6">
                 <h2 class="text-4xl pb-3">About Cavern Climb</h2>
-                <p class="px-12 text-center">Cavern Climb is an addictive 2D platformer mobile game that has taken inspiration from the likes of Crossy Road, Doodle Jump and Happy Hop! As you climb your way up, collect coins and unlock a variety of new skins, of which you can choose to use while playing. The game also features advertisements during play as a way to monetise the application.</p>
+                <p class="px-12 text-center leading-7">Cavern Climb is an addictive 2D platformer mobile game that has taken inspiration from the likes of Crossy Road, Doodle Jump and Happy Hop! As you climb your way up, collect coins and unlock a variety of new skins, of which you can choose to use while playing. The game also features advertisements during play as a way to monetise the application.</p>
             </div>
         </div>
 
         <!--Software Used section-->
         <div class="flex justify-center mb-8">
             <div class="flex flex-col items-center border-2 rounded-xl py-5 w-5/6">
-                <h2 class="text-4xl pb-3">Software Used</h2>
+                <h2 class="text-4xl pb-3">Software</h2>
                 <div class="text-center ">
                     <p class="px-12 pb-2">I created all assets for the game, ranging from scripts to art and animation to music. Here is the full list of everything that I used:</p>
-                    <ul class=" pl-16 text-left self-start list-disc">
+                    <ul class=" pl-16 text-left self-start list-disc leading-7">
                         <li>Unity game engine</li>
                         <li>C#</li>
                         <li>JSON <em>[save systems]</em></li>

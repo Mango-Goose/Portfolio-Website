@@ -13,7 +13,7 @@
         <div class="flex justify-center mb-8">
             <div class="flex flex-col items-center border-2 rounded-xl py-5 w-5/6">
                 <h2 class="text-4xl pb-3">About Farm to Fork</h2>
-                <p class="px-12 text-center">Farm to Fork is a produce box website focused on bringing goods from local farmers to the home. Many people want to shop locally, supporting small businesses and helping the environment. Although, many people lack the means to go to a farmers market so our aim was to bring this experience to their door!</p>
+                <p class="px-12 text-center leading-7">Farm to Fork is a produce box website focused on bringing goods from local farmers to the home. Many people want to shop locally, supporting small businesses and helping the environment. Although, many people lack the means to go to a farmers market so our aim was to bring this experience to their door!</p>
             </div>
         </div>
 
@@ -23,7 +23,7 @@
                 <h2 class="text-4xl mb-3">My Role</h2>
                 <div class="text-center ">
                     <p class="px-12 pb-2">I contributed to this project consistently over the course of the module, of which my tasks included but were not limited to the following:</p>
-                    <ul class=" pl-16 text-left list-disc">
+                    <ul class=" pl-16 text-left list-disc leading-7">
                         <li>Planning and idea generation</li>
                         <li>Page design generation, specifically for the admin pages</li>
                         <li>Coding - more backend focused than frontend, I implemented review systems and forgotten password/ automated mail features</li>
@@ -33,6 +33,26 @@
                 </div>
             </div>
         </div>
+
+        <!--Software section-->
+        <div class="flex justify-center mb-8">
+            <div class="flex flex-col items-center border-2 rounded-xl py-5 w-5/6">
+                <h2 class="text-4xl pb-3">Software</h2>
+                <div class="text-center ">
+                    <p class="px-12 pb-2">Here is the full list of the software that was used in this project:</p>
+                    <ul class=" pl-16 text-left self-start list-disc leading-7">
+                        <li>Laravel</li>
+                        <li>Tailwind</li>
+                        <li>PHP</li>
+                        <li>HTML</li>
+                        <li>CSS</li>
+                        <li>JavaScript</li>
+                        <li>Sqlite</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
 
         <!--For finding source code and hosted website-->
         <div class="flex justify-center">
