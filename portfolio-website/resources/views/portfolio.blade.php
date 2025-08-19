@@ -2,7 +2,7 @@
     <div class="text-rose-100">
         <div class=" flex flex-col items-center mb-16">
             <h1 class="text-4xl mb-10">My Portfolio</h1>
-            <p>Here are all of the coding projects I have completed and am proud of!</p>
+            <p class="text-lg">Here are all of the coding projects I have completed and am proud of!</p>
         </div>
     <!--List of all projects-->
     <div class="mx-12 grid-cols-3 grid">
